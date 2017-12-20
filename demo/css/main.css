@@ -709,6 +709,12 @@ background-position: -143px;
   width: 100%;
 }
 
+@media (max-width: 1024px) and (min-width: 900px){
+	.em-demo-preview-item > a{ height:250px; }	
+}
+@media (max-width: 899px) and (min-width: 768px){
+	.em-demo-preview-item > a{ height:200px; }	
+}
 
 
 
